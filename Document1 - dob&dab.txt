@@ -1,0 +1,28 @@
+# Define a function for each group of prints
+def hoic():
+    print("Target the system to attack")
+    print("To phishing the all data up")
+    print("Enemy win of that gathering")
+    print("Read>(error+code+breack=script/enter+*?*")
+    print("Run this malware number <*> to stress the system")
+    print("Run this software numbers code/ to exploit")
+    print("Run without permission")
+    print("Whatever <?> : ")
+    print("Wherever <?> : ")
+    print("Whenever <?> : ")
+    print("However  <?> : ")
+    print("It has no <NO> obstacles")
+    print("No obstacles To stop")
+    print("*+*=!,<?>")
+    for _ in range(13):
+        print("<:>********************access<?!?>/AM/I/ANONYMOUS/ON/YOU!@##$%^&*(*")
+    for _ in range(10): 
+        print("90-90843250-80<0x0x0x0x0x0x0x=10+01>(?)X+X+X+X+X+X+X+X(?)>*<<>><I<>")
+
+# High Orbit Ion Cannon code to break down
+print("anonymous script code * dob dab NO stop")
+print("anonymous script code * bod bad RO stop")
+print("anonymous script code * d*b B#D NO stop")
+
+# Run the hoic function to print all messages
+hoic()
